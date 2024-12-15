@@ -120,3 +120,4 @@
 /Users/home/Desktop/Carsties/src/AuctionService/obj/Debug/net9.0/AuctionService.pdb
 /Users/home/Desktop/Carsties/src/AuctionService/obj/Debug/net9.0/AuctionService.genruntimeconfig.cache
 /Users/home/Desktop/Carsties/src/AuctionService/obj/Debug/net9.0/ref/AuctionService.dll
+/Users/home/Desktop/Carsties/src/AuctionService/obj/Debug/net9.0/AuctionService.sourcelink.json
