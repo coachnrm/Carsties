@@ -37,3 +37,13 @@
 /Users/home/Desktop/Carsties/src/SearchService/obj/Debug/net9.0/SearchService.pdb
 /Users/home/Desktop/Carsties/src/SearchService/obj/Debug/net9.0/SearchService.genruntimeconfig.cache
 /Users/home/Desktop/Carsties/src/SearchService/obj/Debug/net9.0/ref/SearchService.dll
+/Users/home/Desktop/Carsties/src/SearchService/bin/Debug/net9.0/Data/auctions.json
+/Users/home/Desktop/Carsties/src/SearchService/bin/Debug/net9.0/MassTransit.dll
+/Users/home/Desktop/Carsties/src/SearchService/bin/Debug/net9.0/MassTransit.Abstractions.dll
+/Users/home/Desktop/Carsties/src/SearchService/bin/Debug/net9.0/MassTransit.RabbitMqTransport.dll
+/Users/home/Desktop/Carsties/src/SearchService/bin/Debug/net9.0/Microsoft.Extensions.Http.Polly.dll
+/Users/home/Desktop/Carsties/src/SearchService/bin/Debug/net9.0/Polly.dll
+/Users/home/Desktop/Carsties/src/SearchService/bin/Debug/net9.0/Polly.Extensions.Http.dll
+/Users/home/Desktop/Carsties/src/SearchService/bin/Debug/net9.0/RabbitMQ.Client.dll
+/Users/home/Desktop/Carsties/src/SearchService/bin/Debug/net9.0/Contracts.dll
+/Users/home/Desktop/Carsties/src/SearchService/bin/Debug/net9.0/Contracts.pdb

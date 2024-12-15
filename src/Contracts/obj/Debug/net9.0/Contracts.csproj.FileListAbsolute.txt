@@ -1,0 +1,12 @@
+/Users/home/Desktop/Carsties/src/Contracts/bin/Debug/net9.0/Contracts.deps.json
+/Users/home/Desktop/Carsties/src/Contracts/bin/Debug/net9.0/Contracts.dll
+/Users/home/Desktop/Carsties/src/Contracts/bin/Debug/net9.0/Contracts.pdb
+/Users/home/Desktop/Carsties/src/Contracts/obj/Debug/net9.0/Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Desktop/Carsties/src/Contracts/obj/Debug/net9.0/Contracts.AssemblyInfoInputs.cache
+/Users/home/Desktop/Carsties/src/Contracts/obj/Debug/net9.0/Contracts.AssemblyInfo.cs
+/Users/home/Desktop/Carsties/src/Contracts/obj/Debug/net9.0/Contracts.csproj.CoreCompileInputs.cache
+/Users/home/Desktop/Carsties/src/Contracts/obj/Debug/net9.0/Contracts.sourcelink.json
+/Users/home/Desktop/Carsties/src/Contracts/obj/Debug/net9.0/Contracts.dll
+/Users/home/Desktop/Carsties/src/Contracts/obj/Debug/net9.0/refint/Contracts.dll
+/Users/home/Desktop/Carsties/src/Contracts/obj/Debug/net9.0/Contracts.pdb
+/Users/home/Desktop/Carsties/src/Contracts/obj/Debug/net9.0/ref/Contracts.dll

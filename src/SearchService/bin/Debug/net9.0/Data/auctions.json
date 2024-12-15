@@ -1,0 +1,20 @@
+[
+  {
+    "id": "6a5011a1-fe1f-47df-9a32-b5346b289391",
+    "resevePrice": 0,
+    "seller": "bob",
+    "winner": null,
+    "soldAmount": 0,
+    "currentHighBid": 0,
+    "createdAt": "2023-06-22T03:52:45.479302Z",
+    "updatedAt": "2023-06-22T03:52:45.479302Z",
+    "auctionEnd": "2023-07-11T03:52:45.479302Z",
+    "status": "Live",
+    "make": "Audi",
+    "model": "R8",
+    "year": 2021,
+    "color": "White",
+    "mileage": 10050,
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/05/06/16/32/car-1376190_960_720.jpg"
+  }
+]

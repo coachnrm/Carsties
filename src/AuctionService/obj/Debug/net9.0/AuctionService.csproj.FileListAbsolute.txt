@@ -121,3 +121,10 @@
 /Users/home/Desktop/Carsties/src/AuctionService/obj/Debug/net9.0/AuctionService.genruntimeconfig.cache
 /Users/home/Desktop/Carsties/src/AuctionService/obj/Debug/net9.0/ref/AuctionService.dll
 /Users/home/Desktop/Carsties/src/AuctionService/obj/Debug/net9.0/AuctionService.sourcelink.json
+/Users/home/Desktop/Carsties/src/AuctionService/bin/Debug/net9.0/MassTransit.dll
+/Users/home/Desktop/Carsties/src/AuctionService/bin/Debug/net9.0/MassTransit.Abstractions.dll
+/Users/home/Desktop/Carsties/src/AuctionService/bin/Debug/net9.0/MassTransit.EntityFrameworkCoreIntegration.dll
+/Users/home/Desktop/Carsties/src/AuctionService/bin/Debug/net9.0/MassTransit.RabbitMqTransport.dll
+/Users/home/Desktop/Carsties/src/AuctionService/bin/Debug/net9.0/RabbitMQ.Client.dll
+/Users/home/Desktop/Carsties/src/AuctionService/bin/Debug/net9.0/Contracts.dll
+/Users/home/Desktop/Carsties/src/AuctionService/bin/Debug/net9.0/Contracts.pdb
