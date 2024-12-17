@@ -128,3 +128,11 @@
 /Users/home/Desktop/Carsties/src/AuctionService/bin/Debug/net9.0/RabbitMQ.Client.dll
 /Users/home/Desktop/Carsties/src/AuctionService/bin/Debug/net9.0/Contracts.dll
 /Users/home/Desktop/Carsties/src/AuctionService/bin/Debug/net9.0/Contracts.pdb
+/Users/home/Desktop/Carsties/src/AuctionService/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/home/Desktop/Carsties/src/AuctionService/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/home/Desktop/Carsties/src/AuctionService/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/home/Desktop/Carsties/src/AuctionService/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/home/Desktop/Carsties/src/AuctionService/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/home/Desktop/Carsties/src/AuctionService/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/home/Desktop/Carsties/src/AuctionService/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/home/Desktop/Carsties/src/AuctionService/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
